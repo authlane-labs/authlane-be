@@ -1,5 +1,9 @@
 # AuthLane BE
 
+![Python](https://img.shields.io/badge/Python-3.12-3776ab?logo=python)
+![Flask](https://img.shields.io/badge/Flask-REST-000000?logo=flask)
+![MariaDB](https://img.shields.io/badge/MariaDB-SQLAlchemy_Async-003545?logo=mariadb)
+
 React 인증 화면과 레거시 로그인 폼이 함께 사용하는 Flask REST API입니다. 로그인, 토큰 갱신, 세션 dashboard 데이터를 제공합니다.
 
 ## 기능
